@@ -1,6 +1,6 @@
 # A Codecademy exercise to demonstrate routing
 
-An AngularJS app to chart popular TV shows. App reads and display the live data from a server.
+a single page AngularJS app to chart popular TV shows. App reads and display the live data from a server.
 
 # Setting up AngularJS development environment on Windows
 
