@@ -1,6 +1,6 @@
 # A Codecademy exercise to demonstrate routing
 
-a single page AngularJS app to chart popular TV shows. App reads and display the live data from a server.
+A single page AngularJS app to chart popular TV shows. App reads and display the live data from a server.
 
 # Setting up AngularJS development environment on Windows
 
@@ -54,7 +54,7 @@ A development web server will be launched at http://localhost:9000:
 
 Clear contents in app folder and clone your project files into it
 
-Link to app: https://geraldgsh.github.io/e-reader/#/books
+Link to app: https://geraldgsh.github.io/top10tv/
 
 License
 ----
